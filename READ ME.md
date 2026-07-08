@@ -1,4 +1,4 @@
 ***TESTANDO***
 
-*Am Morgen mag ich eine Kaffee trinke*
+*Am Morgen trinke ich gern einen Kaffee*
 
