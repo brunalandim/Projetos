@@ -1,4 +1,4 @@
-\#\*POSTGREESQL\*
+\# POSTGREESQL
 
 
 
@@ -8,11 +8,11 @@ Esse trabalho é um banco de dados, realizado por um curso da UDEMY para treinam
 
 
 
-\##\*\*00 - Criação da Database.sql\*\*
+\## 00 - Criação da Database.sql
 
 
 
-Esse script é a criação do banco de dados teste. Há três tabelas: \*DEPARTAMENTOS\*; \*LOCALIZAÇÃO\*; \*FUNCIONÁRIOS\*.
+Esse script é a criação do banco de dados teste. Há três tabelas: \*\*DEPARTAMENTOS\*\* ; \*\*LOCALIZAÇÃO\*\*; \*\*FUNCIONÁRIOS\*\*.
 
 
 
