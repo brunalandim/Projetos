@@ -38,3 +38,14 @@ from funcionarios
 group by departamento; 
 
 
+/* criação de uma view */
+
+CREATE VIEW departamento_salario AS
+select departamento, avg(salario), sum(salario)
+from funcionarios 
+group by departamento; 
+
+select * from departamento_salario;
+
+
+
