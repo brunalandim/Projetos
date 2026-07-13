@@ -1,3 +1,4 @@
+
 create table departamentos (
     departamentos varchar(100),
     divisao varchar(100),
