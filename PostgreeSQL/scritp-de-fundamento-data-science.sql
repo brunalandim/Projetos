@@ -3,6 +3,7 @@ as
 select maquinas, 
 max(quantidade) as MAXIMA,
 min(quantidade) as MINIMA,
+avg(quantidade) as media,
 (max(quantidade) - min(quantidade)) as amplitude,
 Round(stddev_pop(quantidade)::numeric,2) as desvio,
 Round(var_pop(quantidade)::numeric,2) as conf_var,
